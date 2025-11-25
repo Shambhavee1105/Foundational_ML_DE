@@ -48,7 +48,6 @@ Reusable Python modules for fundamental ML and data engineering operations.
 ## Purpose
 
 This repo was created as part of personal learning and practice in Machine Learning and Data Science.
-It serves as a reference for students building foundational ML skills.
 
 ---
 
