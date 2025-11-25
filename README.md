@@ -1,4 +1,4 @@
-# Basic_ML_DE_Codes
+# Fundamentals of Machine Learning & Data Engineering
 
 This repository contains a collection of basic machine learning and data preprocessing codes, created for personal learning and demonstration purposes.
 
